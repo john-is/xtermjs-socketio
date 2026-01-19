@@ -1,5 +1,5 @@
-import './assets/xterm.js';
-import './assets/xterm-addon-fit.js';
+import 'https://cdnjs.cloudflare.com/ajax/libs/xterm/3.0.1/xterm.js';
+import 'https://cdnjs.cloudflare.com/ajax/libs/xterm/3.0.1/addons/fit/fit.min.js';
 import 'https://cdn.socket.io/socket.io-3.0.1.min.js'
 
 const OPTIONS_TERM = {
